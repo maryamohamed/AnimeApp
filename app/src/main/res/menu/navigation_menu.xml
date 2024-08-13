@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_Animes"
+            android:icon="@drawable/icon_people"
+            android:title="Animes" />
+        <item
+            android:id="@+id/nav_lastest_quotes"
+            android:icon="@drawable/icon_quote"
+            android:title="Lastest Quotes" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/icon_favorite_24"
+            android:title="Favourites" />
+        <item
+            android:id="@+id/nav_aboutUs"
+            android:icon="@drawable/icon_info"
+            android:title="About Us" />
+    </group>
+    <item android:title="comunicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share_share"
+                android:title="Share" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AnimeApp</string>
+
+    <!--     character names-->
+    <string name="naruto_uzumaki">Naruto Uzumaki</string>
+    <string name="monkey_d_luffy">Monkey D. Luffy</string>
+    <string name="goku">Goku</string>
+    <string name="sailor_moon">Sailor Moon</string>
+    <string name="light_yagami">Light Yagami</string>
+    <string name="levi_lckerman">Levi Ackerman</string>
+    <string name="ichigo_kurosaki">Ichigo Kurosaki</string>
+    <string name="edward_elric">Edward Elric</string>
+    <string name="eren_yeager">Eren Yeager</string>
+    <string name="mikasa_ackerman">Mikasa Ackerman</string>
+    <string name="l_lawliet">L Lawliet</string>
+    <string name="natsu_dragneel">Natsu Dragneel</string>
+    <string name="rem_and_ram">Rem and Ram</string>
+    <string name="kirito">Kirito</string>
+    <string name="saitama">Saitama</string>
+
+    <!--     character descriptions-->
+    <string name="naruto_uzumaki_desc">Naruto is a ninja from the Hidden Leaf Village. He is cheerful, hyperactive, and determined to become the strongest ninja and earn the title of Hokage. He has a powerful fox demon, Kurama, sealed inside him.</string>
+    <string name="monkey_d_luffy_desc">Luffy is the captain of the Straw Hat Pirates. He has the ability to stretch his body like rubber after eating a Devil Fruit. His dream is to find the One Piece and become the Pirate King.</string>
+    <string name="goku_desc">Goku is a Saiyan who loves fighting and getting stronger. He protects Earth from various threats and is known for his cheerful personality and insatiable appetite. His signature move is the Kamehameha wave.</string>
+    <string name="sailor_moon_desc">Usagi is a clumsy and crybaby middle school girl who transforms into Sailor Moon, the leader of the Sailor Scouts. She fights evil forces and searches for the Moon Princess.</string>
+    <string name="light_yagami_desc">Light is a high school student who discovers the Death Note, a notebook that allows him to kill anyone by writing their name in it. He uses it to try to create a utopia free of crime.</string>
+    <string name="levi_lckerman_desc">Levi is the captain of the Survey Corps and is known for his incredible combat skills and stoic personality. He is deeply dedicated to eradicating the Titans.</string>
+    <string name="ichigo_kurosaki_desc">Ichigo is a high school student who becomes a Soul Reaper, defending humans from evil spirits and guiding souls to the afterlife. He wields a powerful sword called Zangetsu.</string>
+    <string name="edward_elric_desc">Edward is a talented alchemist who lost his arm and leg in an alchemical accident. Alongside his brother Alphonse, he searches for the Philosopher\'s Stone to restore their bodies.</string>
+    <string name="eren_yeager_desc">Eren is a member of the Survey Corps who vows to exterminate the Titans after they destroy his hometown. He later discovers he has the ability to transform into a Titan himself.</string>
+    <string name="mikasa_ackerman_desc">Mikasa is Eren\'s adoptive sister and one of the best soldiers in the Survey Corps. She is fiercely protective of Eren and highly skilled in comba</string>
+    <string name="l_lawliet_desc">L is a world-renowned detective tasked with catching Kira, the person behind the mysterious deaths caused by the Death Note. He is known for his eccentric behavior and sharp mind.</string>
+    <string name="natsu_dragneel_desc">Natsu is a member of the Fairy Tail guild and a Dragon Slayer wizard with the power to breathe and manipulate fire. He is known for his reckless and carefree attitude.</string>
+    <string name="rem_and_ram_desc">Rem and Ram are twin maids who work for Roswaal L Mathers. Rem has blue hair and is a skilled fighter, while Ram has pink hair and excels in magical abilities.</string>
+    <string name="kirito_desc">Kirito is a skilled player in the virtual reality game Sword Art Online. He becomes one of the game\'s strongest players and fights to free everyone trapped inside.</string>
+    <string name="saitama_desc">Saitama is a superhero who can defeat any opponent with a single punch. Despite his immense power, he is often bored and seeks a worthy challenge.</string>
+    <string name="let_s_discover_animes">Let\'s Discover Animes!</string>
+    <string name="don_t_have_an_account">don\'t have an account? </string>
+    <string name="register">" "Register</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_register_page">Welcome to Register Page</string>
+    <string name="welcome_to_login_page">Welcome to Login Page</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="email">E-mail</string>
+    <string name="navigation_drawer_open">E-mail</string>
+    <string name="navigation_drawer_close">E-mail</string>
+</resources>
